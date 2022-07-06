@@ -1,13 +1,14 @@
-/**
- * File: alphabet ten times
- * Author: Chima Durumetu
+/*
+ *File: alphabet ten times
+ *Author: Chima Durumetu
  */
 
 #include "main.h"
 
 /**
- * print_alphabet_x10 - print alphabet 10 times, in lowercase.
+ *print_alphabet_x10 - print alphabet 10 times, in lowercase.
  */
+
 void print_alphabet_x10(void)
 {
 	int coun = 0;
