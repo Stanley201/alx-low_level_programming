@@ -12,7 +12,7 @@ int main(void)
 	unsigned long m, n, p, carry;
 
 	count = 0;
-	i = 0
+	i = 0;
 	j = 1;
 	for (count = 1; count <= 91; count++)
 	{
